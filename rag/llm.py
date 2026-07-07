@@ -10,7 +10,7 @@ import os
 import config
 
 _DEFAULT_MODELS = {
-    "gemini": "gemini-1.5-flash",
+    "gemini": "gemini-2.5-flash",
     "openai": "gpt-4o-mini",
     "anthropic": "claude-3-5-haiku-latest",
 }
